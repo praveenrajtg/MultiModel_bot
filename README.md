@@ -1,4 +1,3 @@
-# MultiModel_bot
 # Multi-Modal Chatbot
 
 A chatbot that handles both text and image inputs using Google Gemini AI.
